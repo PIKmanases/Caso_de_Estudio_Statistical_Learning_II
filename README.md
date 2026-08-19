@@ -7,7 +7,7 @@ Detección y priorización de eventos anómalos en el dataset HIGGS mediante enf
 El notebook que consolida los Requerimientos 1 a 6 (EDA, enfoque supervisado, enfoque no supervisado, priorización de alertas, integración y preguntas de análisis) es:
 
 ```
-notebooks/Requerimientos_1_y_2_y_3.ipynb
+notebooks/Notebook_Entregable.ipynb
 ```
 
 ## 1. Datos
